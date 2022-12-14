@@ -3,7 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-image: url(/assets/back/main.jpg)
+    background-image: url(assets/back/main.jpg)
 }
 
 .container {
